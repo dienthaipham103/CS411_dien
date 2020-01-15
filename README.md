@@ -1,2 +1,2 @@
 # CS411_dien
-All codes for the Data Visualization class(CS411)
+All codes of the Data Visualization class (CS411)
